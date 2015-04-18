@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wof", "wof.vcproj", "{18ECD673-EEA5-4690-ACA1-5C81441D7C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ECD673-EEA5-4690-ACA1-5C81441D7C7D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18ECD673-EEA5-4690-ACA1-5C81441D7C7D}.Debug|Win32.Build.0 = Debug|Win32
+		{18ECD673-EEA5-4690-ACA1-5C81441D7C7D}.Release|Win32.ActiveCfg = Release|Win32
+		{18ECD673-EEA5-4690-ACA1-5C81441D7C7D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
